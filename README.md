@@ -17,4 +17,6 @@ In this case we will define all accessible paths of existing web applications.
 ### Requirements
 - Python 3.10 or higher
 - Install dependencies from ```requirements.txt```
+
+- CLI installing dependencies
 ```pip3 install -r requirements.txt``` || ```pip install -r requirements.txt```
